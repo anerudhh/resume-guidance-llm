@@ -97,6 +97,10 @@ Resume Score: 88/100
 Strengths: Strong technical background and project diversity  
 Improvements: Add quantifiable impact and clarify leadership roles  
 Ideal Roles: ML Engineer, Data Analyst, AI Product Developer
+![WhatsApp Image 2025-11-06 at 22 25 33_e5cf49ba](https://github.com/user-attachments/assets/515a0d5a-21f5-409b-9da4-3c645e56ddec)
+![WhatsApp Image 2025-11-06 at 22 23 19_03e42d77](https://github.com/user-attachments/assets/f475c063-3088-42ef-b953-d14f09c97985)
+
+
 
 📊 Results
 Metric	Observation
