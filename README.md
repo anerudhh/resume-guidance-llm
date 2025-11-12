@@ -10,10 +10,10 @@ This project uses **Unsloth + LoRA fine-tuning** to create a lightweight, domain
 It is trained on datasets containing resume text and skill–career mappings to provide intelligent, personalized feedback on resumes.
 
 ###  Features
-- 🔍 Analyzes resumes and evaluates them on structure, content, and skills  
-- 💡 Suggests ideal job roles and upskilling paths  
-- 📊 Provides a resume score out of 100  
-- ⚡ Fine-tuned using open-source and curated resume datasets  
+-  Analyzes resumes and evaluates them on structure, content, and skills  
+-  Suggests ideal job roles and upskilling paths  
+-  Provides a resume score out of 100  
+-  Fine-tuned using open-source and curated resume datasets  
 
 ---
 
@@ -51,11 +51,11 @@ It is trained on datasets containing resume text and skill–career mappings to 
 
 ##  Setup Instructions
 
-### 1️⃣ Clone the Repository
+### 1️. Clone the Repository
 git clone https://github.com/anerudhh/resume-guidance-llm.git
 cd resume-guidance-llm
 
-2️⃣ Create a Virtual Environment
+2️. Create a Virtual Environment
 bash
 Copy code
 python -m venv venv
@@ -65,11 +65,11 @@ Windows: venv\Scripts\activate
 
 Mac/Linux: source venv/bin/activate
 
-3️⃣ Install Dependencies
+3️. Install Dependencies
 bash
 Copy code
 pip install -r requirements.txt
-4️⃣ Run the Notebook
+4️. Run the Notebook
 Open and execute fine_tune_colab.ipynb in Jupyter or VS Code to:
 
 Prepare datasets
@@ -98,8 +98,7 @@ ask(prompt)
 
 
 
-
-📊 Results
+Results
 Metric	Observation
 Dataset Size	~1000 samples
 Fine-tuning Epochs	3
