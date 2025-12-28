@@ -78,7 +78,7 @@ Fine-tune the model using LoRA
 
 Evaluate outputs
 
-💬 Inference Example
+Inference Example
 python
 Copy code
 prompt = """
